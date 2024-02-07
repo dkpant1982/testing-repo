@@ -1,4 +1,4 @@
 def func():
- return 'Hello, Data Donut!'
+    return 'Hello, Data Donut!'
 
-func()
+print(func())
